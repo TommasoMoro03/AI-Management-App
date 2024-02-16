@@ -1,2 +1,2 @@
-# python-web-applications
-Python web applications created with Flask/Streamlit
+# AI Management App
+A web application that allows users to manage their business
